@@ -29,7 +29,7 @@ private class LoggerFrameworkTests
     }
 
     /**
-    * @description Test ensures that the DI Container returns the correct logger
+    * @description Test ensures that the DI Container returns the Correct Logger
     * @return none
     */
     @IsTest
